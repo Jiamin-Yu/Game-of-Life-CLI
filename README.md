@@ -1,2 +1,2 @@
 # Game-of-Life-CLI
-User Interface of Game of Life Implementation and Model Implementation.
+Implementation of the Game of Life model.
